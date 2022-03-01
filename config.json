@@ -1,0 +1,9 @@
+{
+    "KafkaOptions":{
+        "Host":"106.52.182.79:9092",
+        "Topic":"kafka_test"
+    },
+	"EtcdOptions":{
+        "Address":"106.52.182.79:2379"
+	}
+}
